@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: TestRunner.TestRunner
+Test set: SauceDemo Ecomm Website
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.108 s - in TestRunner.TestRunner
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.34 s -- in SauceDemo Ecomm Website
